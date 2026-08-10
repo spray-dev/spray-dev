@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LipeCoelho21">
-    <img src="https://github-readme-stats.vercel.app/api?username=LipeCoelho21&show_icons=true&theme=tokyonight" alt="Filipe's GitHub Stats" />
-  </a>
+  <a href="https://github.com/LipeCoelho21"> </a>
 </p>
 
 ---
