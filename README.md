@@ -49,7 +49,7 @@
 
 **[JrVisual](https://github.com/spray-dev/jrvisual)** — Institutional website for a visual communication and printing company, developed with React, TypeScript, Vite, CSS Modules, and Vercel.
 
-- [Live demo](https://mobile-website-adaptation-iota.vercel.app)
+- [Live demo](https://jrcomunica.vercel.app)
 - Responsive navigation, product catalog, service pages, and automatic deployment.
 
 ---
