@@ -2,10 +2,6 @@
 
 <h3 align="center">Computer Science graduate and backend developer from Brazil.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spray-dev&label=Profile%20views&color=0e75b6&style=flat" alt="spray-dev profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
